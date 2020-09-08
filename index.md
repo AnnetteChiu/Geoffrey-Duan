@@ -50,6 +50,10 @@ import scipy.stats as scs
 from itertools import product                    # 一些有用的函数
 from tqdm import tqdm_notebook
 
+```
+
+
+
 ## 1.2 Data Import and Read Order Information
 
 Data import and read order CSV file information
@@ -63,7 +67,7 @@ freshgogo1 = pd.read_csv(file1)
 freshgogo2 = pd.read_csv(file2)
 
 
-
+```
 
 
 
